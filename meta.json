@@ -1,0 +1,28 @@
+{
+  "name": "game Colection 3",
+  "description": "In Game Caracters 3",
+  "image": "https://raw.githubusercontent.com/felixCapri/crypto/main/logo2.png",
+  "cover_image": "https://raw.githubusercontent.com/felixCapri/crypto/main/logo2.png",
+  "social_links": [
+    {
+      "name": "YouTube",
+      "url": "https://www.youtube.com"
+    },
+    {
+      "name": "Website",
+      "url": ""
+    },
+    {
+      "name": "Telegram",
+      "url": ""
+    },
+    {
+      "name": "Twitter",
+      "url": ""
+    },
+    {
+      "name": "GitHub",
+      "url": ""
+    }
+  ]
+}
