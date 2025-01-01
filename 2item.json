@@ -1,5 +1,23 @@
 {
   "name": "SWN two",
   "description": "l1s5d10s12rsh",
-  "image": "https://raw.githubusercontent.com/felixCapri/crypto/main/logo2.png"
+  "image": "https://raw.githubusercontent.com/felixCapri/crypto/main/logo2.png",
+  "attributes": {
+    "strength": 10,
+    "health": 100,
+    "speed": 25,
+    "luck": 50,
+    "armor": {
+      "name": "Steel Plate",
+      "defense": 40
+    },
+    "weapon": {
+      "name": "Sword of Destiny",
+      "attack": 75
+    },
+    "power": {
+      "name": "Fireball",
+      "damage": 120
+    }
+  }
 }
